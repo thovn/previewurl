@@ -1,5 +1,5 @@
 {
-  "name": "webapp",
+  "name": "previewurl",
   "version": "0.1.4",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "start": "node server.js",
     "prestart": "npm run build"
   },
-  "author": "habla",
+  "author": "thotruong",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.22.1",
